@@ -1,0 +1,109 @@
+{"POS": "n", "MEANING": ["rice (esp. when served on a plate)"], "related_word": "ライスカレー", "KANJ": null, "KANA_WORD": ["ライス"], "KANA_PRONUNCIATION": ["raisu"]}
+{"POS": "n", "MEANING": ["(white) rice"], "related_word": null, "KANJ": ["白米"], "KANA_WORD": ["はくまい"], "KANA_PRONUNCIATION": ["hakumai"]}
+{"POS": "n", "MEANING": ["(husked grains of) rice", "88 years old"], "related_word": null, "KANJ": ["米"], "KANA_WORD": ["こめ", "よね", "めめ", "コメ"], "KANA_PRONUNCIATION": ["kome", "yone", "meme", "kome"]}
+{"POS": "n", "MEANING": ["rice"], "related_word": null, "KANJ": ["米穀"], "KANA_WORD": ["べいこく"], "KANA_PRONUNCIATION": ["beikoku"]}
+{"POS": "n", "MEANING": ["rice"], "related_word": null, "KANJ": ["飯米"], "KANA_WORD": ["はんまい"], "KANA_PRONUNCIATION": ["hanmai"]}
+{"POS": "n", "MEANING": ["(husked grains of) rice"], "related_word": "米", "KANJ": ["お米"], "KANA_WORD": ["おこめ"], "KANA_PRONUNCIATION": ["okome"]}
+{"POS": "n", "MEANING": ["rice (as provisions)"], "related_word": null, "KANJ": ["糧米"], "KANA_WORD": ["りょうまい"], "KANA_PRONUNCIATION": ["ryoumai"]}
+{"PRONUNCIATION": "こめしゅうかくくだる", "EXAMPLE": "米の収穫が下ったら大変なことになるぞ。", "ENGLISH": "A poor rice harvest will get us into real trouble."}
+{"PRONUNCIATION": "ごちゃわんいっぱいごはんやく", "EXAMPLE": "お茶碗一杯のご飯は約、１８０ｇです。", "ENGLISH": "A bowl of rice is about 180 grams."}
+{"PRONUNCIATION": "わたしゆうしょくたべるする", "EXAMPLE": "私は日本で生まれたので、夕食にごはんを食べることにしている。", "ENGLISH": "Born in Japan, I make it a rule to have rice at dinner."}
+{"PRONUNCIATION": "さくねんありあまるほどこめせいさん", "EXAMPLE": "昨年は有り余る程の米が生産された。", "ENGLISH": "An abundance of rice was produced last year."}
+{"PRONUNCIATION": "きみくにごこめ", "EXAMPLE": "君の国では、お米をたべますか。", "ENGLISH": "Do you eat rice in your country?"}
+{"PRONUNCIATION": "いねしゅうかくき", "EXAMPLE": "稲の収穫期にはお祭りをする。", "ENGLISH": "A festival is held at the rice harvest."}
+{"PRONUNCIATION": "おかわりおねがいします", "EXAMPLE": "ライスとキャベツをお代わりお願いします。", "ENGLISH": "Can I have seconds on rice and cabbage?"}
+{"PRONUNCIATION": "ごはん", "EXAMPLE": "ご飯は置いてますか。", "ENGLISH": "Do you have rice?"}
+{"PRONUNCIATION": "わたしすきりょうり", "EXAMPLE": "カレーライスは私の好きな料理です。", "ENGLISH": "Curry and rice is my favorite dish."}
+{"PRONUNCIATION": "だいこうぶつ", "EXAMPLE": "カレーライスは、彼女の大好物です。", "ENGLISH": "Curry and rice is her favorite food."}
+{"POS": "n", "MEANING": ["clothes; garment", "gown; robe", "coating (e.g. glaze, batter, icing)"], "related_word": null, "KANJ": ["衣"], "KANA_WORD": ["ころも"], "KANA_PRONUNCIATION": ["koromo"]}
+{"POS": "n", "MEANING": ["clothes"], "related_word": null, "KANJ": ["衣服"], "KANA_WORD": ["いふく"], "KANA_PRONUNCIATION": ["ifuku"]}
+{"POS": "n", "MEANING": ["dress; clothes; drapery"], "related_word": null, "KANJ": ["衣紋"], "KANA_WORD": ["えもん"], "KANA_PRONUNCIATION": ["emon"]}
+{"POS": "n", "MEANING": ["clothing; clothes", "kimono (or other trad. Japanese clothing)"], "related_word": null, "KANJ": ["着物"], "KANA_WORD": ["きもの"], "KANA_PRONUNCIATION": ["kimono"]}
+{"POS": "n", "MEANING": ["clothes (esp. Western clothes)", "counter for doses of medicine, gulps of tea, drags of a cigarette, etc."], "related_word": "一服", "KANJ": ["服"], "KANA_WORD": ["ふく"], "KANA_PRONUNCIATION": ["fuku"]}
+{"POS": "n", "MEANING": ["clothes; clothing; garments"], "related_word": null, "KANJ": ["衣類"], "KANA_WORD": ["いるい"], "KANA_PRONUNCIATION": ["irui"]}
+{"POS": "n", "MEANING": ["clothes; outfit; uniform; gi"], "related_word": null, "KANJ": ["着"], "KANA_WORD": ["ぎ"], "KANA_PRONUNCIATION": ["gi"]}
+{"PRONUNCIATION": "ふくよごれる", "EXAMPLE": "「服汚れるでしょ」「それはノープロブレム。もともとあんまり綺麗じゃないし」", "ENGLISH": "\"You'll get your clothes dirty.\" \"No worries. They weren't very clean in the first place.\""}
+{"PRONUNCIATION": "ふく", "EXAMPLE": "服を着替えなさい。", "ENGLISH": "Change your clothes."}
+{"PRONUNCIATION": "みなりひとつくる", "EXAMPLE": "身なりは人を作る。", "ENGLISH": "Clothes make the man."}
+{"PRONUNCIATION": "こどもおおきくふく", "EXAMPLE": "子供は大きくなると、これまで着ていた服が着られなくなる。", "ENGLISH": "As children get bigger, they grow out of their clothes."}
+{"PRONUNCIATION": "さくりゃくいふくひつようとするはだかのぞむ", "EXAMPLE": "策略は衣服を必要とするが、真実は裸でいることを望む。", "ENGLISH": "Craft must have clothes, but truth loves to go naked."}
+{"PRONUNCIATION": "さくりゃくいふくひつようとするはだかこのむ", "EXAMPLE": "策略は衣服を必要とするが、真実は裸であることを好む。", "ENGLISH": "Craft must have clothes, but truth loves to go naked."}
+{"PRONUNCIATION": "かれまったくあたらしいふくそうこころうつまんぞくする", "EXAMPLE": "ベスは彼の全く新しい服装に心打たれ、満足しました。", "ENGLISH": "Beth was very impressed and content with his completely new clothes."}
+{"PRONUNCIATION": "かねいふく", "EXAMPLE": "その金がすべて衣服に使われた。", "ENGLISH": "All the money was spent on clothes."}
+{"PRONUNCIATION": "おかねようふくつかうごおろか", "EXAMPLE": "キャロラインはすべてのお金を洋服に使うほどお愚かではない。", "ENGLISH": "Caroline knows better than to spend all her money on clothes."}
+{"PRONUNCIATION": "おかねぜんぶいふくつかう", "EXAMPLE": "キャロラインはお金を全部衣服に使うほどばかではない。", "ENGLISH": "Caroline knows better than to spend all her money on clothes."}
+{"POS": "n", "MEANING": ["house"], "related_word": null, "KANJ": null, "KANA_WORD": ["カーサ"], "KANA_PRONUNCIATION": ["kaasa"]}
+{"POS": "n", "MEANING": ["house", "plastic greenhouse", "house music"], "related_word": "ビニールハウス", "KANJ": null, "KANA_WORD": ["ハウス"], "KANA_PRONUNCIATION": ["hausu"]}
+{"POS": "n", "MEANING": ["house"], "related_word": null, "KANJ": null, "KANA_WORD": ["メゾン"], "KANA_PRONUNCIATION": ["mezon"]}
+{"POS": "n", "MEANING": ["cart (esp. a food cart); stall; stand", "festival float; portable shrine dedicated to a god and shaped like a house; dancing platform", "stage prop fashioned after a large building", "framework (of a house, etc.)", "house (esp. a small and miserable house)"], "related_word": "屋台店", "KANJ": ["屋台", "屋体", "家台"], "KANA_WORD": ["やたい"], "KANA_PRONUNCIATION": ["yatai"]}
+{"POS": "n", "MEANING": ["house; residence; dwelling", "family; household", "lineage; family name"], "related_word": null, "KANJ": ["家"], "KANA_WORD": ["いえ"], "KANA_PRONUNCIATION": ["ie"]}
+{"POS": "n", "MEANING": ["house; home (one's own)", "(one's) family; (one's) household"], "related_word": "内", "KANJ": ["家"], "KANA_WORD": ["うち", "ち"], "KANA_PRONUNCIATION": ["uchi", "chi"]}
+{"POS": "suf", "MEANING": ["house (e.g. of Tokugawa); family"], "related_word": null, "KANJ": ["家"], "KANA_WORD": ["け"], "KANA_PRONUNCIATION": ["ke"]}
+{"POS": "n", "MEANING": ["house; building"], "related_word": null, "KANJ": ["家屋"], "KANA_WORD": ["かおく"], "KANA_PRONUNCIATION": ["kaoku"]}
+{"POS": "n", "MEANING": ["parliament; congress; diet", "house (of parliament, etc.); chamber"], "related_word": null, "KANJ": ["議院"], "KANA_WORD": ["ぎいん"], "KANA_PRONUNCIATION": ["giin"]}
+{"POS": "n", "MEANING": ["dwelling; house; residence; den; habitat"], "related_word": "住い", "KANJ": ["住み処", "住家", "住み家", "住みか", "住処", "棲家", "栖"], "KANA_WORD": ["すみか", "じゅうか"], "KANA_PRONUNCIATION": ["sumika", "juuka"]}
+{"POS": "n", "MEANING": ["lodging; inn; hotel", "house; home; dwelling", "home of a servant's parents (or guarantor, etc.)"], "related_word": null, "KANJ": ["宿"], "KANA_WORD": ["やど"], "KANA_PRONUNCIATION": ["yado"]}
+{"POS": "n", "MEANING": ["house; houses; human habitation"], "related_word": null, "KANJ": ["人家"], "KANA_WORD": ["じんか"], "KANA_PRONUNCIATION": ["jinka"]}
+{"POS": "n", "MEANING": ["house; home; husband"], "related_word": null, "KANJ": ["宅"], "KANA_WORD": ["たく"], "KANA_PRONUNCIATION": ["taku"]}
+{"POS": "n", "MEANING": ["tribe; clan; house"], "related_word": null, "KANJ": ["部族"], "KANA_WORD": ["ぶぞく"], "KANA_PRONUNCIATION": ["buzoku"]}
+{"POS": "n-suf", "MEANING": ["hut; house", "(in the ancient Chinese army) one day's march (approx. 12.2 km)"], "related_word": null, "KANJ": ["舎"], "KANA_WORD": ["しゃ"], "KANA_PRONUNCIATION": ["sha"]}
+{"POS": "n", "MEANING": ["dwelling; house; residence; address"], "related_word": null, "KANJ": ["住まい", "住居", "住い"], "KANA_WORD": ["すまい", "じゅうきょ"], "KANA_PRONUNCIATION": ["sumai", "juukyo"]}
+{"POS": "n", "MEANING": ["house; hall; building"], "related_word": null, "KANJ": ["館"], "KANA_WORD": ["かん"], "KANA_PRONUNCIATION": ["kan"]}
+{"POS": "n", "MEANING": ["building; house"], "related_word": null, "KANJ": ["屋舎"], "KANA_WORD": ["おくしゃ"], "KANA_PRONUNCIATION": ["okusha"]}
+{"POS": "suf", "MEANING": ["(something) shop", "somebody who sells (something) or works as (something)", "somebody with a (certain) personality trait", "house", "roof"], "related_word": "パン屋", "KANJ": ["屋", "家"], "KANA_WORD": ["や"], "KANA_PRONUNCIATION": ["ya"]}
+{"POS": "n", "MEANING": ["(separate) house; detached house"], "related_word": "一戸建て", "KANJ": ["戸建て", "戸建"], "KANA_WORD": ["こだて"], "KANA_PRONUNCIATION": ["kodate"]}
+{"POS": "n", "MEANING": ["house; home"], "related_word": null, "KANJ": ["小宅"], "KANA_WORD": ["しょうたく"], "KANA_PRONUNCIATION": ["shoutaku"]}
+{"PRONUNCIATION": "いえまえおにいちゃん", "EXAMPLE": "「どうしたんだよ、家の前でモジモジと」「うん・・・お兄ちゃんがかえってくるの、まってたんだ」", "ENGLISH": "\"What's up? Fidgeting around in front of the house.\" \"Um ... I was waiting for you to come back.\""}
+{"PRONUNCIATION": "どろぼういえ", "EXAMPLE": "泥棒がその家に押し入った。", "ENGLISH": "A burglar broke into the house."}
+{"PRONUNCIATION": "わたしりょこうるすちゅうどろぼうはいる", "EXAMPLE": "私が旅行で留守中に泥棒が入った。", "ENGLISH": "A burglar broke into my house while I was away on a trip."}
+{"PRONUNCIATION": "ごうとうかれいえ", "EXAMPLE": "強盗が彼の家に押し入った。", "ENGLISH": "A burglar broke into his house."}
+{"PRONUNCIATION": "おかうえちかおかうえいえ", "EXAMPLE": "皆は丘の上に地下を掘り、丘の上に家をうごかしました。", "ENGLISH": "A cellar was dug on top of the hill and they slowly moved the house from the road to the hill."}
+{"PRONUNCIATION": "いちだいくるまわたしいえまえ", "EXAMPLE": "一台の車が私の家の前で止まった。", "ENGLISH": "A car drew up in front of my house."}
+{"PRONUNCIATION": "おたくきゅうかあいだどろぼうはいる", "EXAMPLE": "お宅が休暇で出かけている間に、泥棒が入りました。", "ENGLISH": "A burglar broke into your house while you were away on vacation."}
+{"PRONUNCIATION": "わたしいえおとこのこ", "EXAMPLE": "「私は暖かい家がほしいのだ」男の子は言いました。", "ENGLISH": "\"I want a house to keep me warm,\" he said."}
+{"PRONUNCIATION": "ちいさいかのじょすき", "EXAMPLE": "「ここはもう町に住んでいるということなのだ」と小さいおうちはおもいました。そして彼女はそれが好きかどうかよくわかりませんでした。", "ENGLISH": "\"This must be living in the city,\" thought the Little House, and didn't know whether she liked it or not."}
+{"PRONUNCIATION": "いえむこう", "EXAMPLE": "「あなたの家はどこですか」「それは向こうです」", "ENGLISH": "\"Where is your house?\" \"It is over there.\""}
+{"POS": "adj-f", "MEANING": ["simple; light; easy; openhearted"], "related_word": null, "KANJ": null, "KANA_WORD": ["あっさりした"], "KANA_PRONUNCIATION": ["assarishita"]}
+{"POS": "adj-i", "MEANING": ["easy; simple", "soft; lax; slack"], "related_word": null, "KANJ": null, "KANA_WORD": ["ちょろい"], "KANA_PRONUNCIATION": ["choroi"]}
+{"POS": "adj-na", "MEANING": ["easy"], "related_word": null, "KANJ": null, "KANA_WORD": ["イージー"], "KANA_PRONUNCIATION": ["iijii"]}
+{"POS": "adj-na", "MEANING": ["easy; simple", "easy-going"], "related_word": null, "KANJ": ["安易"], "KANA_WORD": ["あんい"], "KANA_PRONUNCIATION": ["ani"]}
+{"POS": "adj-na", "MEANING": ["inexpensive; cheap; easy; simple"], "related_word": null, "KANJ": ["安直"], "KANA_WORD": ["あんちょく"], "KANA_PRONUNCIATION": ["anchoku"]}
+{"POS": "adj-i", "MEANING": ["easy"], "related_word": null, "KANJ": ["易い"], "KANA_WORD": ["やすい"], "KANA_PRONUNCIATION": ["yasui"]}
+{"POS": "adj-i", "MEANING": ["easy; plain; simple"], "related_word": null, "KANJ": ["易しい"], "KANA_WORD": ["やさしい"], "KANA_PRONUNCIATION": ["yasashii"]}
+{"POS": "exp", "MEANING": ["easy; trifling; harmless; of no concern; nothing"], "related_word": null, "KANJ": ["何でも無い", "何でもない"], "KANA_WORD": ["なんでもない"], "KANA_PRONUNCIATION": ["nandemonai"]}
+{"POS": "adj-na", "MEANING": ["simple; easy; brief; uncomplicated"], "related_word": null, "KANJ": ["簡単", "簡短"], "KANA_WORD": ["かんたん"], "KANA_PRONUNCIATION": ["kantan"]}
+{"POS": "adj-na", "MEANING": ["loose; slack", "gentle; easy; slow", "lenient; liberal; lax"], "related_word": null, "KANJ": ["緩やか"], "KANA_WORD": ["ゆるやか"], "KANA_PRONUNCIATION": ["yuruyaka"]}
+{"POS": "adj-i", "MEANING": ["light (i.e. not heavy); feeling light (i.e. offering little resistance, moving easily)", "light (i.e. of foot); nimble; agile", "non-serious; minor; unimportant; trivial", "slight; small; gentle; soft", "easy; simple", "indiscriminate"], "related_word": "口が軽い", "KANJ": ["軽い"], "KANA_WORD": ["かるい", "かろい"], "KANA_PRONUNCIATION": ["karui", "karoi"]}
+{"POS": "adj-f", "MEANING": ["nothing; nothing to be done; safe; easy"], "related_word": null, "KANJ": ["事無し"], "KANA_WORD": ["ことなし"], "KANA_PRONUNCIATION": ["kotonashi"]}
+{"POS": "adj-na", "MEANING": ["easy; simple; informal; offhand; cheap"], "related_word": null, "KANJ": ["手軽"], "KANA_WORD": ["てがる"], "KANA_PRONUNCIATION": ["tegaru"]}
+{"POS": "adj-i", "MEANING": ["no trouble; easy"], "related_word": null, "KANJ": ["造作無い", "造作ない"], "KANA_WORD": ["ぞうさない"], "KANA_PRONUNCIATION": ["zousanai"]}
+{"POS": "adj-i", "MEANING": ["fast; quick; hasty; brisk", "early (in the day, etc.); premature", "(too) soon; not yet; (too) early", "easy; simple; quick"], "related_word": "手っ取り早い", "KANJ": ["早い", "速い", "疾い", "捷い"], "KANA_WORD": ["はやい"], "KANA_PRONUNCIATION": ["hayai"]}
+{"POS": "adj-i", "MEANING": ["silly; foolish; absurd; childish; easy; trifling; guileless"], "related_word": "他愛もない", "KANJ": ["他愛ない", "他愛無い", "たわい無い"], "KANA_WORD": ["たわいない", "たあいない"], "KANA_PRONUNCIATION": ["tawainai", "taainai"]}
+{"POS": "adj-i", "MEANING": ["silly; foolish; absurd; childish; easy; trifling; guileless"], "related_word": "他愛ない", "KANJ": ["他愛もない", "他愛も無い"], "KANA_WORD": ["たわいもない"], "KANA_PRONUNCIATION": ["tawaimonai"]}
+{"POS": "adj-na", "MEANING": ["easy; simple; plain"], "related_word": null, "KANJ": ["平易"], "KANA_WORD": ["へいい"], "KANA_PRONUNCIATION": ["heii"]}
+{"POS": "adj-na", "MEANING": ["easy; simple; plain"], "related_word": null, "KANJ": ["容易"], "KANA_WORD": ["ようい"], "KANA_PRONUNCIATION": ["youi"]}
+{"POS": "adj-i", "MEANING": ["easy; simple; light"], "related_word": null, "KANJ": ["容易い"], "KANA_WORD": ["たやすい"], "KANA_PRONUNCIATION": ["tayasui"]}
+{"POS": "adj-na", "MEANING": ["light; easy; non-serious; minor"], "related_word": null, "KANJ": ["軽やか"], "KANA_WORD": ["かるやか", "かろやか"], "KANA_PRONUNCIATION": ["karuyaka", "karoyaka"]}
+{"POS": "adv", "MEANING": ["comfortably; snugly; cosily; easy; carefree"], "related_word": null, "KANJ": ["温々", "温温"], "KANA_WORD": ["ぬくぬく"], "KANA_PRONUNCIATION": ["nukunuku"]}
+{"POS": "adj-t", "MEANING": ["quiet; calm; leisurely; easy"], "related_word": null, "KANJ": ["悠々", "悠悠"], "KANA_WORD": ["ゆうゆう"], "KANA_PRONUNCIATION": ["yuuyuu"]}
+{"POS": "adj-na", "MEANING": ["easy; light; simple"], "related_word": null, "KANJ": ["軽易"], "KANA_WORD": ["けいい"], "KANA_PRONUNCIATION": ["keii"]}
+{"POS": "adj-na", "MEANING": ["gently-sloping; gentle; easy"], "related_word": null, "KANJ": ["傾らか"], "KANA_WORD": ["なだらか"], "KANA_PRONUNCIATION": ["nadaraka"]}
+{"POS": "adj-i", "MEANING": ["simple; easy"], "related_word": null, "KANJ": ["生易しい"], "KANA_WORD": ["なまやさしい"], "KANA_PRONUNCIATION": ["namayasashii"]}
+{"POS": "adj-i", "MEANING": ["easy; simple", "(there is) no reason"], "related_word": null, "KANJ": ["訳無い", "訳ない"], "KANA_WORD": ["わけない"], "KANA_PRONUNCIATION": ["wakenai"]}
+{"POS": "adv", "MEANING": ["comfortable; easy; calm", "loose; spacious"], "related_word": null, "KANJ": null, "KANA_WORD": ["ゆったり"], "KANA_PRONUNCIATION": ["yuttari"]}
+{"POS": "exp", "MEANING": ["easy; simple; even if you're an idiot or a simpleton"], "related_word": "チョン", "KANJ": ["馬鹿でもチョンでも"], "KANA_WORD": ["ばかでもチョンでも"], "KANA_PRONUNCIATION": ["bakademochondemo"]}
+{"POS": "adj-i", "MEANING": ["no trouble; easy"], "related_word": null, "KANJ": ["造作もない", "造作も無い", "雑作もない", "雑作も無い"], "KANA_WORD": ["ぞうさもない"], "KANA_PRONUNCIATION": ["zousamonai"]}
+{"POS": "adj-f", "MEANING": ["easy (e.g. explanation, description); plain; familiar", "informal (e.g. greeting, expression); friendly; affable (e.g. person)"], "related_word": null, "KANJ": ["砕けた"], "KANA_WORD": ["くだけた"], "KANA_PRONUNCIATION": ["kudaketa"]}
+{"POS": "adj-i", "MEANING": ["easy; simple"], "related_word": null, "KANJ": ["お安い", "御安い"], "KANA_WORD": ["おやすい"], "KANA_PRONUNCIATION": ["oyasui"]}
+{"POS": "adj-i", "MEANING": ["silly; foolish; absurd; childish; easy; trifling; guileless"], "related_word": "他愛もない", "KANJ": ["他愛のない", "他愛の無い"], "KANA_WORD": ["たわいのない"], "KANA_PRONUNCIATION": ["tawainonai"]}
+{"POS": "adj-t", "MEANING": ["easy; simple; plain"], "related_word": null, "KANJ": ["易々", "易易"], "KANA_WORD": ["いい"], "KANA_PRONUNCIATION": ["ii"]}
+{"PRONUNCIATION": "したしいあいだがらぼうりょくひがいひがいじったい", "EXAMPLE": "また、親しい間柄であることから、暴力の被害を受けやすく、その被害を訴えにくいという実態がある。", "ENGLISH": "Also as they are in an intimate relationship they are in a situation where it is easy for them to suffer from violence and difficult for them to bring complaints about that to court."}
+{"PRONUNCIATION": "ひこうきがいこくりょこうよういする", "EXAMPLE": "飛行機は外国旅行を容易にした。", "ENGLISH": "Airplanes have made it easy to travel abroad."}
+{"PRONUNCIATION": "えいごいま", "EXAMPLE": "初めは英語はとても難しいと思ったが、今ではやさしいと思っている。", "ENGLISH": "At first, he thought English very difficult, but now he thinks it is easy."}
+{"PRONUNCIATION": "じしょうひょうげんひと", "EXAMPLE": "事象として簡単なことを、いかにも難しそうに表現する人はあまり頭がよさそうではない。", "ENGLISH": "A person who makes an easy matter sound difficult does not seem to be so smart."}
+{"PRONUNCIATION": "みぞはなうえるかんたん", "EXAMPLE": "溝を掘り終えたら花を植えるのは簡単だよ。", "ENGLISH": "After we finish digging the trench, planting the flowers will be easy."}
+{"PRONUNCIATION": "いっけんしたところもんだいみえる", "EXAMPLE": "一見したところ、その問題は易しそうにみえた。", "ENGLISH": "At first sight, the question seemed easy."}
+{"PRONUNCIATION": "あくしゅうみつく", "EXAMPLE": "悪臭は身につきやすい。", "ENGLISH": "Bad habits are easy to get into."}
+{"PRONUNCIATION": "にちようびする", "EXAMPLE": "まる１週間働いたので日曜日はのんびりしました。", "ENGLISH": "After working all week, we took it easy on Sunday."}
+{"PRONUNCIATION": "こうらくち", "EXAMPLE": "その行楽地はとてもいきやすい。", "ENGLISH": "Access to the resort is quite easy."}
+{"PRONUNCIATION": "ばす", "EXAMPLE": "この中に、バスで簡単に行けるところがありますか。", "ENGLISH": "Are any of these easy to get to by bus?"}
